@@ -16,4 +16,4 @@ class BulletScene(Scene):
     def construct(self):
         bullet=Bullet()
         self.add(bullet)
-        self.wait(2)
+        self.wait(3)
